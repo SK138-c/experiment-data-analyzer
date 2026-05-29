@@ -24,3 +24,7 @@ python analyzer.py
 ## Sample Data
 
 The repository includes sample frequency response data for testing.
+
+## Result
+
+![Result](result.png)
